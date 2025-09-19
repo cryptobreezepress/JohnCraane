@@ -6,10 +6,11 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 
 ## 🚀 About Me
 
-- 🌟 Enthusiast in open-source development and community collaboration.
-- 💻 Experienced in [mention your key skills or technologies, e.g., Python, JavaScript, React, etc.].
-- 📚 Always learning: currently diving deeper into [mention what you're learning, e.g., Machine Learning, DevOps, etc.].
-- 🌍 Love contributing to projects that make a global impact.
+- 🌟 Enthusiast in open-source development and community collaboration.  
+- 💻 Experienced in [mention your key skills or technologies, e.g., Python, JavaScript, React, etc.].  
+- 📚 Always learning: currently diving deeper into [mention what you're learning, e.g., Machine Learning, DevOps, etc.].  
+- 🌍 Love contributing to projects that make a global impact.  
+- 🌐 Currently based in Germany, previously lived in the United States.  
 
 ---
 
@@ -32,11 +33,12 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 
 - 🌐 **My Websites:**
   - [Trust-Reviews](https://trust-reviews.reviews/)
-  - [Trust-Reviews PL](https://pl.trust-reviews.reviews/)
+  - [Q-sx.cm](https://q-sx.cm/)  
+  - [AssetManager-Reviews.com](https://assetmanager-reviews.com/)  
   - [Ratebaze](https://ratebaze.org)
   - [Cryptobreeze](https://cryptobreeze.ru/)
   - [Qantiso](https://qantiso.com/)
-  - [Socreviews](https://www.socreviews.com/))
+  - [Socreviews](https://www.socreviews.com/)
 - 💼 [LinkedIn - John Craane](https://www.linkedin.com/in/john-craane-aa3032230/)
 - 📧 [Email me](mailto:johnnncraneee@gmail.com)
 
@@ -47,5 +49,7 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 [Share a fun fact about yourself! For example: "I once built a web app in 24 hours just for fun!"]
 
 ---
+
+Join our channel [CryptoBreeze RU — YouTube](https://www.youtube.com/@Cryptobreezeru). There we analyze investment projects and expose them.
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together! 🚀
